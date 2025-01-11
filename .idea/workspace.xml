@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e874fc4e-1d6b-4535-b5c7-bb45f8f4c31a" name="Changes" comment="Add new files">
-      <change beforePath="$PROJECT_DIR$/05_Password_Game/password_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Password_Game/password_game.py" afterDir="false" />
-    </list>
+    <list default="true" id="e874fc4e-1d6b-4535-b5c7-bb45f8f4c31a" name="Changes" comment="Add new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -37,7 +40,7 @@
     "Python.rock_paper_scissors.executor": "Run",
     "Python.treasure_island.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Programs/Other/100DaysOfPython",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
