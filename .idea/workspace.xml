@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e874fc4e-1d6b-4535-b5c7-bb45f8f4c31a" name="Changes" comment="Add new files">
-      <change afterPath="$PROJECT_DIR$/.idea/100DaysOfPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Band_Name_Generator/band_name_genarator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bill_Calculator/billcalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Treasure_Island/ascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Treasure_Island/treasure_island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Rock_Paper_Scissors/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Rock_Paper_Scissors/rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Password_Game/password_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.rock_paper_scissors.executor": "Run",
     "Python.treasure_island.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "D:/Programs/Other/100DaysOfPython",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SharedIndexes">
